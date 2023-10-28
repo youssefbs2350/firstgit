@@ -1,7 +1,7 @@
 package ExceptionPersonalise;
 
 public class Personne {
-//test conflit samar 
+//test samar
     private int id;
     private String nom;
     private int age;
