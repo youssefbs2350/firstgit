@@ -5,7 +5,7 @@ public class Personne {
     private int id;
     private String nom;
     private int age;
-
+     public  int comp ; 
     public int getAge() {
         return age;
     }
